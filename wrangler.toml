@@ -1,0 +1,9 @@
+name = "urbenis"
+type = 'webpack'
+account_id = 'b227e16eb1a9e10957ad72bda5375191'
+route = ''
+zone_id = ''
+usage_model = ''
+workers_dev = true
+target_type = "webpack"
+site = {bucket = "build",entry-point = "workers-site"}
